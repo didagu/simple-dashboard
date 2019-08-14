@@ -1,11 +1,10 @@
 {
-  "name": "CodingPhase-StarterKit",
+  "name": "simple-dashboard",
   "version": "1.0.0",
-  "description": "Super Cool Framework",
+  "description": "Super simple dashboard using html and scss",
   "main": "index.js",
-  "author": "joe santos garcia",
+  "author": "Dominic Idagu",
   "license": "MIT",
-  "homepage": "http://rocky.codingphase.com/",
   "dependencies": {
     "axios": "^0.16.1",
     "babel-core": "^6.24.1",
