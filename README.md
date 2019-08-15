@@ -1,7 +1,7 @@
 # Simple Dashboard
 
 
-So I built this simple dashboard using a starter kit i cloned from https://github.com/codingphasedotcom/Starter-Kit-2018
+I built this simple dashboard with HTML & SCSS using a starter kit i cloned from https://github.com/codingphasedotcom/Starter-Kit-2018
 
 **Steps**
 ---------
