@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700');
 @import "reset";
 @import "variables";
+@import "grid";
+@import "content-area";
 
 * {
   box-sizing: border-box
@@ -128,7 +130,6 @@ header {
         display: inline-block;
         border-radius: 50%;
         margin-right: 5px;
-
       }
 
       .fa.user-dropdown {
