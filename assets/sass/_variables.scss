@@ -3,3 +3,13 @@ $purpleDark: #282639;
 $greenNeon: #92CF48;
 $greyLight: #F4F6F9;
 $greyDark: #EAEDF3;
+$grey: #AEABC4;
+
+//Grid system
+$grid-columns: 12;
+$grid-max-width: 1200px;
+//breakpoints
+$breakpoint-small: "only screen and (min-width: 0px)";
+$breakpoint-medium: "only screen and (min-width: 768px)";
+$breakpoint-large: "only screen and (min-width: 1008px)";
+$breakpoint-xl: "only screen and (min-width: 1300px)";
