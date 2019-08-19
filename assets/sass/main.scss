@@ -15,7 +15,8 @@ body {
 
 #sideMenu {
   width: 280px;
-  position: absolute;
+  position: fixed;
+  height: 100%;
   top: 0;
   bottom: 0;
   background: $purpleLight;
