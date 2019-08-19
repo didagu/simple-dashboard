@@ -1,7 +1,7 @@
 # Simple Dashboard
 
 
-I built this simple dashboard with HTML & SCSS using a starter kit i cloned from https://github.com/codingphasedotcom/Starter-Kit-2018
+I built this simple dashboard with HTML & SCSS using a Starter Kit cloned from [CodingPhaseDotCom](https://github.com/codingphasedotcom/Starter-Kit-2018)
 
 **Steps**
 ---------
@@ -25,4 +25,4 @@ On the root of this project run on your terminal (if you want you can do this wi
 
 **Start the server**
 
-  npm run watch
+    npm run watch
